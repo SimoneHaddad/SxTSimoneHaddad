@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simone Haddad
+- 👋 Hi, I’m @Simone Haddad and I am an engineer at Space and Time Labs! 
 - 👀 I’m interested in ALL technology, especially Security, Infrastructure, and Cloud Automations. 
 - 🌱 I’m ALWAYS learning
 - 💞️ I’m looking to collaborate on Web3, Blockchain, and Automation! 
