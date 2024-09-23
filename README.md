@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Simone Haddad
-- 👀 I’m interested in ALL technology, especially Security, Imfrastructure, and Cloud Automations. 
+- 👀 I’m interested in ALL technology, especially Security, Infrastructure, and Cloud Automations. 
 - 🌱 I’m ALWAYS learning
 - 💞️ I’m looking to collaborate on Web3, Blockchain, and Automation! 
 - 📫 How to reach me - simone@hctit.tech
